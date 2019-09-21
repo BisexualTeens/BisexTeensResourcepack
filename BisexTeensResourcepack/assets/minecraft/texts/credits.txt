@@ -2,8 +2,12 @@
 [C]§eMinecraft Team
 [C]§f============
 
+§7
+
 §5 Edited by Sirhaxe
 §5 Graphics by Bash
+§5 Songs by Pat
+§5 coffee by Yosef
 
 §7Original Creator
 §f          Markus Persson

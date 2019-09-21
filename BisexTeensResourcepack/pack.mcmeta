@@ -4,10 +4,10 @@
      "description": "Bisexual resourcepack"
   },
   "language":{
-     "LANG_COUNTRY":{
+     "en_bi":{
         "name": "Bisexual language",
         "region": "Homoland",
-        "bidirectional":false
+        "bidirectional": false
 		}
 	}
 }
